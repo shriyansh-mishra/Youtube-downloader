@@ -57,7 +57,7 @@ pip install pytube
 - pytube
 - asyncio
 
-## Contributing
+## Contribution
 
 Contributions are welcome! Please feel free to submit a Pull Request :).
 
